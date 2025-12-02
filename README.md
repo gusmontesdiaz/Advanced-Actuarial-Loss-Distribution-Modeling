@@ -21,7 +21,7 @@ The model performs several high-level quantitative tasks:
 3.  **Model Calibration:** Fitting the expected PDs to a theoretical **Exponential Adjustment Model** to calibrate the results, demonstrating an understanding of model calibration techniques.
 4.  **Validation:** Presenting a direct comparison between Expected PD and the Adjusted PD, along with the difference, showcasing model performance and goodness-of-fit.
 
-## ✨ Value Proposition for the Analyst Role
+## ✨ Value Proposition
 
 * **Deep Statistical Knowledge:** Proven command over advanced actuarial distributions and Bayesian estimation, critical for complex modeling tasks.
 * **Credit/Loss Modeling:** Direct experience in the primary methodologies used to quantify credit risk and actuarial losses.
